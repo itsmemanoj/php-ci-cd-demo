@@ -3,7 +3,7 @@
         'name' => 'alphacoder/cicd',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b5682665fe0971f5b41d9d4732c24b0d39f34830',
+        'reference' => '55fe7e47578cf1ca6ba0624c13fbc30529591fbd',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'alphacoder/cicd' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b5682665fe0971f5b41d9d4732c24b0d39f34830',
+            'reference' => '55fe7e47578cf1ca6ba0624c13fbc30529591fbd',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
