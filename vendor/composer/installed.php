@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'alphacoder/cicd',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'b5682665fe0971f5b41d9d4732c24b0d39f34830',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'alphacoder/cicd' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'b5682665fe0971f5b41d9d4732c24b0d39f34830',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
